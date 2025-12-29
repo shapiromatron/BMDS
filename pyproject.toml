@@ -74,6 +74,7 @@ build = ["cp314-*"]
 skip = [
   "*-win32",
   "*-win_arm64",
+  "*musllinux*",
   "*i686",
   "*-macosx_x86_64",
   "*-macosx_universal2",
